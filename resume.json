@@ -1,30 +1,30 @@
 {
   "basics": {
-    "name": "Jean-Avit Promis",
-    "label": "DEVOPS",
-    "summary": "**Web developer with 15+ years industry experience** specializing in ecommerce and system architecture. 37 years old.",
-    "website": "https://www.katagena.com/",
-    "phone": "###PHONE###",
-    "email": "###EMAIL###",
-    "picture": "https://raw.githubusercontent.com/nouchka/japromis.katagena.com/master/picture.jpg",
+    "name": "Josip Radic",
+    "label": "Senior Developer & Technical Lead",
+    "summary": "An IT geek since the age of six who had an amazing opportunity to be a part of the pre-internet era experiencing the intensive technological achievements and being lucky enough to play with a wide range of technologies and meeting a bunch of amazing people in that path.\n\nI find myself as a highly motivated, proactive, reliable and hard-working person. An extrovert and a problem solver. Flexible to adapt in any team or work environment. Friendly, focused and calm in stressed situations.",
+    "website": "http://radic.co/",
+    "phone": "+385 98 623 757",
+    "email": "josip@radic.co",
+    "picture": "https://raw.githubusercontent.com/josipradic/docker-hackmyresume-web/master/picture.jpg",
     "location": {
-      "address": "Jean-Avit Promis\n###ADDRESS###",
-      "postalCode": "24100",
-      "city": "Bergerac",
-      "countryCode": "FR",
-      "region": "Dordogne"
+      "address": "Josip Radic\n###ADDRESS###",
+      "postalCode": "10000",
+      "city": "Zagreb",
+      "countryCode": "HR",
+      "region": "Grad Zagreb"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "nouchka",
-        "url": "https://github.com/nouchka",
+        "username": "josipradic",
+        "url": "https://github.com/josipradic",
         "iconClass": "fa fa-github-square"
       },
       {
         "network": "Linkedin",
-        "username": "japromis",
-        "url": "https://fr.linkedin.com/in/japromis",
+        "username": "josip-radic-50668819",
+        "url": "https://www.linkedin.com/in/josip-radic-50668819",
         "iconClass": "fa fa-linkedin-square"
       }
     ]
